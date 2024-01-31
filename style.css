@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap');
+body {
+    background-color: #33186B;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-weight: 400;
+    font-size: 20px;
+    color: #C499F3;
+}
+
+h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-weight: 400;
+    font-size: 30px;
+    color: #F2AFEF;
+}
+
+h2 {
+    font-family: 'Press Start 2P', system-ui;
+    font-weight: 400;
+    font-size: 20px;
+    color: #F2AFEF;
+}
+
+h3 {
+    font-family: 'Press Start 2P', system-ui;
+    font-weight: 400;
+    font-size: 20px;
+    color: #F2AFEF;
+}
+
+nav {
+    font-family: 'M PLUS 1 Code', monospace;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+ul {
+    list-style: none;
+  }
+
+footer {
+    font-family: 'M PLUS 1 Code', monospace;
+    font-weight: 400;
+    font-size: 10px;
+    margin-left: 50%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    margin-right: 20px;
+    
+}
+  
+
+
+
