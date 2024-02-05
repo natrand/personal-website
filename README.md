@@ -10,7 +10,7 @@ This is the repository for my personal website. It contains the HTML and CSS fil
 
 ## Project Structure
 - **index.html:** Main HTML file containing the structure of the website.
-- **styles/main.css:** CSS file for styling the website.
+- **style.css:** CSS file for styling the website.
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/natrand/personal-website.git`
